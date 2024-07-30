@@ -1,0 +1,46 @@
+/* src/components/AboutHostel.css */
+
+#about-hostel {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  #about-hostel .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .about-hostel-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .hostel-image img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .hostel-description {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .hostel-description h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .hostel-description p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
