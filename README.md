@@ -8,10 +8,10 @@ A brief description of what your project does, its features, and any relevant de
 
 Here are some images related to the project:
 
-![S1 Image](https://github.com/your-username/your-repository/blob/master/Website/public/Images/S1.png)
-![S2 Image](https://github.com/your-username/your-repository/blob/master/Website/public/Images/S2.png)
-![S3 Image](https://github.com/your-username/your-repository/blob/master/Website/public/Images/S3.png)
-![S4 Image](https://github.com/your-username/your-repository/blob/master/Website/public/Images/S4.png)
+![S1 Image](https://github.com/kapilan2005/Colloge-website/raw/master/Website/public/Images/S1.png)
+![S2 Image](https://github.com/kapilan2005/Colloge-website/raw/master/Website/public/Images/S2.png)
+![S3 Image](https://github.com/kapilan2005/Colloge-website/raw/master/Website/public/Images/S3.png)
+![S4 Image](https://github.com/kapilan2005/Colloge-website/raw/master/Website/public/Images/S4.png)
 
 ## Usage
 
